@@ -152,15 +152,15 @@ Alberto Bollino - (alberto.bollino@mail.polimi.it) </p>
 Umberto Derme - (umberto.derme@mail.polimi.it) </p>
 Giorgio Granello - (giorgio.granello@mail.polimi.it) </p>
 
-Project Link: [https://github.com/polimi-cmls-22/group7-hw-ID-Radical_Geeks]()
+Project Link: [https://github.com/mazamin7/Chordophone-Champion]()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/polimi-cmls-22/group7-hw-SC-Radical_Geeks.svg?style=for-the-badge
-[contributors-url]: https://github.com/polimi-cmls-22/group7-hw-SC-Radical_Geeks/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/polimi-cmls-22/group7-hw-SC-Radical_Geeks.svg?style=for-the-badge
-[forks-url]: https://github.com/polimi-cmls-22/group7-hw-SC-Radical_Geeks/network/members
-[stars-shield]: https://img.shields.io/github/stars/polimi-cmls-22/group7-hw-SC-Radical_Geeks.svg?style=for-the-badge
-[stars-url]: https://github.com/polimi-cmls-22/group7-hw-SC-Radical_Geeks/stargazers
+[contributors-shield]: https://img.shields.io/github/contributors/mazamin7/Chordophone-Champion.svg?style=for-the-badge
+[contributors-url]: https://github.com/mazamin7/Chordophone-Champion/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/mazamin7/Chordophone-Champion.svg?style=for-the-badge
+[forks-url]: https://github.com/mazamin7/Chordophone-Champion/network/members
+[stars-shield]: https://img.shields.io/github/stars/mazamin7/Chordophone-Champion.svg?style=for-the-badge
+[stars-url]: https://github.com/mazamin7/Chordophone-Champion/stargazers
